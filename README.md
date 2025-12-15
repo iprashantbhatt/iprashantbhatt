@@ -53,7 +53,7 @@ I am a **Banker** with a restless curiosity for the digital world. While I manag
 ---
 
 <p align="center">
-Connect with me on <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">LinkedIn</a> • Or check out my repos!
+Connect with me on <a href="https://linkedin.com/in/prashantbhatt1">LinkedIn</a> • Or check out my repos!
 </p>
 
 </div>
