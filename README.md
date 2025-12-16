@@ -37,18 +37,27 @@ I am a **Banker** with a restless curiosity for the digital world. While I manag
 </p>
 ---
 
-### 📊 My GitHub Stats
+### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=iprashantbhatt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="prashant's trophies" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iprashantbhatt&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="prashant's stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprashantbhatt&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iprashantbhatt&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" alt="git streak" />
+
 </div>
+
 
 ---
 
