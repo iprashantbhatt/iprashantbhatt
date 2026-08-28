@@ -32,7 +32,7 @@ Banker. Vibe Coder. Digital Explorer. Building AI-powered applications, autonomo
 
 | | |
 |---|---|
-| 🤖 | **[ResearchAgent](https://github.com/iprashantbhatt)** — Autonomous research bot |
+| 🤖 | **[ResearchAgent](https://github.com/iprashantbhatt/researchagent)** — Autonomous research bot |
 | ₿ | **[House of Bitcoin](https://houseofbitcoin.app)** — Bitcoin-focused content & dashboard |
 | 🔎 | **XPlorer** — Multi-chain blockchain explorer |
 | ⚡ | **Swipely** — News aggregator |
