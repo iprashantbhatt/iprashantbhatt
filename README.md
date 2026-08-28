@@ -22,7 +22,7 @@ Building intelligent software systems<br/>and autonomous AI-powered tools.
 
 </div>
 
-AI & Full-Stack Developer focused on building practical AI systems, automation tools and data-driven applications.
+Banker. Vibe Coder. Digital Explorer. Building AI-powered applications, autonomous agents, developer tools, and data-driven plat.
 
 ---
 
