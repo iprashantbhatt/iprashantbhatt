@@ -10,6 +10,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: clean workspace
+        run: sudo rm -rf dist
+
       - uses: Platane/snk@v3
         id: snake
         with:
