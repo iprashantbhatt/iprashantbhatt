@@ -2,7 +2,6 @@
 </div>
 
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=800&color=1E7BE0&center=true&vCenter=true&multiline=false&width=600&lines=Building+at+the+intersection+of+Finance+%26+Web3;Crafting+beautiful+digital+experiences;Agentic+AI+%7C+Blockchain+%7C+Creative+Coding;Based+in+Dehradun+%F0%9F%8F%94%EF%B8%8F+India)](https://git.io/typing-svg)
 
 </div>
