@@ -99,7 +99,6 @@ My personal site — Apple-style Liquid Glass design with 5 switchable themes.
 ### 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=iprashantbhatt&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://img.shields.io/github/followers/iprashantbhatt?label=Followers&style=for-the-badge&color=blue" alt="Followers" height="35" />
 
 </div>
 
@@ -107,10 +106,10 @@ My personal site — Apple-style Liquid Glass design with 5 switchable themes.
 
 🗺️ My Journey
 
-2008 ──────► ✍️ Blogging & Writing
-2013 ──────► 🏦 Banking Sector
-2016 ──────► ⛓️ Blockchain & Cryptocurrency
-2021 ──────► 💻 Coding & Web Design
+2008 ──────► ✍️ Blogging & Writing//
+2013 ──────► 🏦 Banking Sector//
+2016 ──────► ⛓️ Blockchain & Cryptocurrency//
+2021 ──────► 💻 Coding & Web Design//
 2023–Now ──► 🤖 Artificial Intelligence & Vibe Coding
 
 Writing → Finance → Web3 → Code → AI
