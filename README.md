@@ -1,17 +1,6 @@
-<div align="center">
-
-# Hi, I'm Prashant Bhatt 👋
-
-### Banker · Vibe Coder · Digital Explorer
-
-Building AI agents, trading systems & content pipelines — solo, in public.
-
-[![Website](https://img.shields.io/badge/🌐_Website-prashantbhatt.net-6C5CE7?style=for-the-badge)](https://prashantbhatt.net)
-[![Location](https://img.shields.io/badge/📍-Dehradun,_India-1E1E1E?style=for-the-badge)](https://github.com/iprashantbhatt)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e7be0,50:7b3fe4,100:0fb4c8&height=200&section=header&text=Prashant%20Bhatt&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Banker%20%C2%B7%20Creator%20%C2%B7%20Digital%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/> </div> <div align="center">
 
 </div>
-
----
 
 ### 🧑‍💻 About Me
 
@@ -21,7 +10,34 @@ Building AI agents, trading systems & content pipelines — solo, in public.
 - ✍️ Blogging since 2008 — check out my [old blog](https://prashant-bhatt.blogspot.com/?m=1)
 - 🛠️ Everything self-hosted on my own VPS — Nginx, PM2, SSL, zero-fluff infra
 
----
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+**AI & Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ### 🚀 Projects
 
@@ -89,29 +105,30 @@ My personal site — Apple-style Liquid Glass design with 5 switchable themes.
 
 ---
 
-### 🛠️ Tech Stack
+### 🗺️ Journey
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+2013 ──────► Joined banking sector in Dehradun
+2021 ──────► Started creative coding — Three.js, WebGL, generative art
+2023 ──────► Went deep into blockchain — Solidity, DeFi, smart contracts
+2025–Now ──► Building in public — AI × Web3 × Design
 
 ---
 
+### 🌐 Find Me
+
 <div align="center">
 
-### 📫 Let's Connect
+[![Website](https://img.shields.io/badge/prashantbhatt.net-1e7be0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prashantbhatt.net)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iprashantbhatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iprashantbhatt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iprashantbhatt)
+[![Blog](https://img.shields.io/badge/Blog-f97316?style=for-the-badge&logo=blogger&logoColor=white)](https://prashant-bhatt.blogspot.com)
 
-[![Website](https://img.shields.io/badge/Website-prashantbhatt.net-000000?style=for-the-badge&logo=safari&logoColor=white)](https://prashantbhatt.net)
-[![GitHub](https://img.shields.io/badge/GitHub-iprashantbhatt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iprashantbhatt)
+</div>
 
-<sub>Solo builder shipping AI agents, trading systems & content pipelines — one commit at a time.</sub>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fb4c8,50:7b3fe4,100:1e7be0&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+*Made with 🫧 liquid glass · Dehradun, India*
 </div>
