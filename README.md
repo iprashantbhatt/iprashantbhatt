@@ -105,13 +105,15 @@ My personal site — Apple-style Liquid Glass design with 5 switchable themes.
 
 ---
 
-### 🗺️ Journey
+🗺️ My Journey
 
-2013 ──────► Joined banking sector in Dehradun
-2021 ──────► Started creative coding — Three.js, WebGL, generative art
-2023 ──────► Went deep into blockchain — Solidity, DeFi, smart contracts
-2025–Now ──► Building in public — AI × Web3 × Design
+2008 ──────► ✍️ Blogging & Writing
+2013 ──────► 🏦 Banking Sector
+2016 ──────► ⛓️ Blockchain & Cryptocurrency
+2021 ──────► 💻 Coding & Web Design
+2023–Now ──► 🤖 Artificial Intelligence & Vibe Coding
 
+Writing → Finance → Web3 → Code → AI
 ---
 
 ### 🌐 Find Me
