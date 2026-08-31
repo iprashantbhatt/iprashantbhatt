@@ -1,8 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e7be0,50:7b3fe4,100:0fb4c8&height=200&section=header&text=Prashant%20Bhatt&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Banker%20%C2%B7%20Creator%20%C2%B7%20Digital%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/> </div> <div align="center">
-
 </div>
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=800&color=1E7BE0&center=true&vCenter=true&multiline=false&width=600&lines=Building+at+the+intersection+of+Finance+%26+Web3;Crafting+beautiful+digital+experiences;Agentic+AI+%7C+Blockchain+%7C+Creative+Coding;Based+in+Dehradun+%F0%9F%8F%94%EF%B8%8F+India)](https://git.io/typing-svg)
 
 </div>
