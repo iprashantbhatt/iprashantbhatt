@@ -15,10 +15,10 @@ Building AI agents, trading systems & content pipelines — solo, in public.
 
 ### 🧑‍💻 About Me
 
-- 🏦 Banker by profession, builder by obsession
+- 🏦 Banker by profession, creator by obsession
 - 🤖 Exploring AI agents, automation & LLM-powered systems
-- 📈 Building autonomous market research & SMC-based trading tools
-- ✍️ Blogging since 2008
+- 📈 Building autonomous market research and intelligent trading systems
+- ✍️ Blogging since 2008 — check out my [old blog](https://prashant-bhatt.blogspot.com/?m=1)
 - 🛠️ Everything self-hosted on my own VPS — Nginx, PM2, SSL, zero-fluff infra
 
 ---
@@ -45,31 +45,31 @@ Autonomous multi-agent NSE/BSE research system — News + Filings agents, a Veri
 <tr>
 <td width="50%" valign="top">
 
-**🧠 NEXUS**
-Multi-agent system (CEO + 4 agents) powered by Claude API — being extended into a full trading-intelligence pipeline: research → verify → approve → execute.
-`Claude API` `Multi-Agent`
+**📰 [Swipely](https://swipely.prashantbhatt.net)**
+News aggregator with a swipeable, mobile-first feed.
+`React` `News Aggregation`
 
 </td>
 <td width="50%" valign="top">
 
-**📊 EdgeFlow**
-Smart Money Concepts (SMC)-based trading system — the execution target for NEXUS's trading intelligence agents.
-`Trading` `SMC`
+**🔗 [Explore](https://xp.prashantbhatt.net)**
+Multi-chain blockchain explorer.
+`Blockchain` `Web3`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎙️ Neural Dialogues**
-Faceless Hinglish AI/tech podcast on YouTube, built on a public-domain content pipeline.
-`Content Automation`
+**🤖 [PrashantGPT](https://gpt.prashantbhatt.net)**
+Personal AI chat interface built on OpenRouter.
+`Node.js` `Express` `OpenRouter`
 
 </td>
 <td width="50%" valign="top">
 
 **🌐 [prashantbhatt.net](https://prashantbhatt.net)**
-My personal site — Apple-style Liquid Glass design with 5 switchable themes, showcasing PrashantGPT, XPlorer, Swipely & Omniview.
+My personal site — Apple-style Liquid Glass design with 5 switchable themes.
 `HTML` `CSS` `Vanilla JS`
 
 </td>
@@ -78,34 +78,12 @@ My personal site — Apple-style Liquid Glass design with 5 switchable themes, s
 
 ---
 
-### 🛰️ Also Self-Hosted
-
-| Project | What it is |
-|---|---|
-| 🤖 **[PrashantGPT](https://gpt.prashantbhatt.net)** | Personal AI chat interface, Node/Express + OpenRouter |
-| 🎬 **Video/Image Gen Studio** | AI image & video generation tool, Next.js + FastAPI, NVIDIA NIM FLUX.1-schnell |
-| 🎧 **Podcast Visualizer** | Audio-reactive video visuals for podcasts, built with Remotion |
-| 📉 **Polymarket Trading Tool** | Prediction market CLI + dashboard, Rust + Node/Express + React |
-| 🖥️ **VPS Monitor** | Live server monitoring dashboard for my infra |
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/iprashantbhatt/iprashantbhatt/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iprashantbhatt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iprashantbhatt&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=iprashantbhatt&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://img.shields.io/github/followers/iprashantbhatt?label=Followers&style=for-the-badge&color=blue" alt="Followers" height="35" />
 
 </div>
 
